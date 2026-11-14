@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/jjk-banner.png" alt="MINNNZZ — pixel data explorer. Data Science and Analytics at Georgia State University." width="100%" />
+  <img src="assets/jjk-chibi-banner.png" alt="MINNNZZ — pixel data explorer. Data Science and Analytics at Georgia State University." width="100%" />
 </p>
 
 ### `> load player_profile`
