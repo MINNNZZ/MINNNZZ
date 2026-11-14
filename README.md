@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="MINNNZZ — pixel data explorer. Data Science and Analytics at Georgia State University." width="100%" />
+  <img src="assets/jjk-banner.png" alt="MINNNZZ — pixel data explorer. Data Science and Analytics at Georgia State University." width="100%" />
 </p>
 
 ### `> load player_profile`
@@ -44,3 +44,5 @@ I enjoy cleaning messy datasets, testing the first explanation, and building rep
 [Explore all repositories →](https://github.com/MINNNZZ?tab=repositories)
 
 <img src="assets/footer.svg" alt="Save point: ask better questions, check the evidence, keep exploring" width="100%" />
+
+<sub>Banner: AI-generated pixel fan art featuring Gojo Satoru and Sukuna from Jujutsu Kaisen.</sub>
