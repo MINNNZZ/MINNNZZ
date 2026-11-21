@@ -2,7 +2,7 @@
   <img src="assets/jjk-chibi-banner.png" alt="MINNNZZ — pixel data explorer. Data Science and Analytics at Georgia State University." width="100%" />
 </p>
 
-### `> load player_profile`
+### `> Hi I'm Minh`
 
 I'm a **Data Science student at Georgia State University**, exploring the intersection of **data analytics, business intelligence, and operational decision-making**.
 
@@ -45,4 +45,4 @@ I enjoy cleaning messy datasets, testing the first explanation, and building rep
 
 <img src="assets/footer.svg" alt="Save point: ask better questions, check the evidence, keep exploring" width="100%" />
 
-<sub>Banner: AI-generated pixel fan art featuring Gojo Satoru and Sukuna from Jujutsu Kaisen.</sub>
+
