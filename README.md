@@ -6,9 +6,9 @@
 
 I'm a **Data Science student at Georgia State University**, exploring the intersection of **data analytics, business intelligence, and operational decision-making**.
 
-I enjoy cleaning messy datasets, testing the first explanation, and building reports that make the next decision clearer. My projects span flight operations, NLP classification, workforce dashboards, and app-store analysis.
 
-**Current interests:** Data Analytics · Business Intelligence · Operations Analytics internships
+
+**Open to internship:** Data Analytics · Business Intelligence · Operations Analytics internships
 
 <p align="center">
   <img src="assets/inventory.svg" alt="Analytics toolkit: Python, SQL, pandas, NumPy, Power BI, DAX, Tableau, scikit-learn and LightGBM" width="100%" />
