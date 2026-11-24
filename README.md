@@ -1,48 +1,53 @@
-<p align="center">
-  <img src="assets/jjk-chibi-banner.png" alt="MINNNZZ — pixel data explorer. Data Science and Analytics at Georgia State University." width="100%" />
-</p>
+# Hi, I'm Minh
 
-### `> Hi I'm Minh`
+**Data Science student at Georgia State University · Aviation & Operations Analytics**
 
-I'm a **Data Science student at Georgia State University**, exploring the intersection of **data analytics, business intelligence, and operational decision-making**.
+I use data to investigate operational performance, understand where problems concentrate, and communicate practical business recommendations.
 
+**Seeking internships in Data Analytics, Business Intelligence, and Operations Analytics.**
 
+## Featured project
 
-**Open to internship:** Data Analytics · Business Intelligence · Operations Analytics internships
+### [U.S. Flight Operations & Delay Analytics](https://github.com/MINNNZZ/flight-delay-operations-analytics)
 
-<p align="center">
-  <img src="assets/inventory.svg" alt="Analytics toolkit: Python, SQL, pandas, NumPy, Power BI, DAX, Tableau, scikit-learn and LightGBM" width="100%" />
-</p>
+An end-to-end analytics portfolio project covering **data quality → cleaning → analysis → validation → Power BI → client reporting**.
 
-### `> select quest`
-
-<a href="https://github.com/MINNNZZ/flight-delay-operations-analytics"><img src="assets/quest-flight.svg" alt="Flight Operations Analytics: 5.8M records, Python, Power BI and DAX" width="49%" /></a>
-<a href="https://github.com/MINNNZZ/hackathon-ai-model"><img src="assets/quest-hackathon.svg" alt="AI Jailbreak Detection: Hack a Venture Hackathon, first out of eight teams" width="49%" /></a>
-<a href="https://github.com/MINNNZZ/HR-tableau-project"><img src="assets/quest-hr.svg" alt="HR Analytics Dashboard built with Tableau" width="49%" /></a>
-<a href="https://github.com/MINNNZZ/Editor-choice-analysis"><img src="assets/quest-apps.svg" alt="Google Play Editors' Choice Analysis using Python, pandas and NumPy" width="49%" /></a>
-
-### `> inspect latest quest`
-
-**[U.S. Flight Operations & Delay Analytics](https://github.com/MINNNZZ/flight-delay-operations-analytics)**
-
-- Cleaned and validated **5.8M+ scheduled flight records** with operationally meaningful missing data and extreme delays preserved.
-- Investigated airlines, airports, routes, and time-of-day patterns; challenged findings using matched comparisons and sensitivity checks.
+- Cleaned and validated **5.8M+ scheduled flight records**, preserving meaningful missing values, cancellations, diversions, and extreme delays.
+- Investigated airline, airport, route, and time-of-day patterns; challenged findings through matched comparisons and sensitivity checks.
 - Built **seven-page Power BI reports in English and Vietnamese**, with **21 DAX KPIs reconciled per edition**.
 
-*Historical 2015 analysis. System/time metrics cover 12 months; named-airport/route comparisons cover 11 resolved months. Association is not causation. AI-assisted workflow documented in the project.*
+**Business focus:** identify where reliability problems concentrate and which operational investigations to prioritize.
 
-### `> my playstyle`
+[Read the English client report](https://github.com/MINNNZZ/flight-delay-operations-analytics/blob/main/reports/final_analysis_report_en.md) · [View Power BI screenshots](https://github.com/MINNNZZ/flight-delay-operations-analytics/tree/main/powerbi/desktop/screenshots_en)
 
-```text
-01  Start with the business question.
-02  Validate the data before trusting the chart.
-03  Compare rates, sample sizes, and real-world impact.
-04  Challenge the obvious explanation.
-05  Turn evidence into a decision worth testing.
-```
+*Historical 2015 data. System, airline, and time metrics cover 12 months; named-airport and route comparisons cover 11 resolved months. Findings are observational. This is an AI-assisted portfolio project, with scope and validation documented in the repository.*
+
+## More projects
+
+| Project | Focus | Tools |
+| --- | --- | --- |
+| [HR Analytics Dashboard](https://github.com/MINNNZZ/HR-tableau-project) | Workforce composition, hiring, terminations, and employee-level reporting | Tableau |
+| [Google Play Editors' Choice Analysis](https://github.com/MINNNZZ/Editor-choice-analysis) | Exploratory analysis of app data | Python, pandas, NumPy |
+
+## Toolkit
+
+- **Programming & querying:** Python, SQL
+- **Data analysis:** pandas, NumPy, data cleaning, exploratory data analysis
+- **Business intelligence:** Power BI, DAX, Tableau
+- **Analytical approach:** KPI definitions, segmentation, distributions, sensitivity checks, and business reporting
+
+## How I work
+
+1. Start with the business question.
+2. Check data quality and define the right population and denominators.
+3. Compare rates, sample sizes, and operational impact.
+4. Test alternative explanations and state limitations.
+5. Communicate a specific action and how to measure its outcome.
+
+---
+
+<p align="center">
+  <img src="assets/jjk-chibi-banner.png" alt="MINNNZZ — pixel data explorer" width="520" />
+</p>
 
 [Explore all repositories →](https://github.com/MINNNZZ?tab=repositories)
-
-<img src="assets/footer.svg" alt="Save point: ask better questions, check the evidence, keep exploring" width="100%" />
-
-
